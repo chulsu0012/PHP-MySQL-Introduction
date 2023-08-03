@@ -1,2 +1,2 @@
 # PHP-MySQL-Introduction
-PHP + MySQL 입문 (황재호 지음)
+PHP + MySQL 입문 (황재호 님)
