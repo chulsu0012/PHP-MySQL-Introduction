@@ -1,0 +1,15 @@
+Q5-1.
+    12
+    7
+    9
+    16
+
+Q5-2. htmlspecialchars()
+
+Q5-3. htmlspecialchars_decode()
+
+Q5-4. dechex()
+
+Q5-5. strlen()
+
+Q5-6. strtoupper(), strtolower()
