@@ -35,4 +35,4 @@ select * from member2 where name='김기수';
 
 Q8-17. select name, tel, address from member2 order by name;
 
-Q8-18. delete from member2
+Q8-18. delete from member2;
