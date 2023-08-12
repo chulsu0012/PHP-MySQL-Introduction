@@ -1,0 +1,38 @@
+// book
+Q8-4. select author, isbn, price from book where title='토지';
+
+Q8-5.
+update book set price=20000 where isbn=9791196440545;
+select * from book where isbn=9791196440545;
+
+Q8-6. select * from book order by title;
+
+Q8-7. select * from book order by title desc;
+
+Q8-8.
+delete from book where title='타인의 방';
+select * from book where title='타인의 방';
+
+
+//member2
+Q8-10. select * from member2;
+
+Q8-11. select num, id, name, tel, level from member2 where level=7;
+
+Q8-12. select name, tel from member2 where level>=1 and level<=5;
+
+Q8-13. select name, id, pass, address from member2 where address like '경기도%';
+
+Q8-14. select name, id from member2 where name like '%영%';
+
+Q8-15. 
+update member2 set pass=6789 where name='이지현';
+select * from member2 where name='이지현';
+
+Q8-16. 
+update member2 set level=7 where name='김기수';
+select * from member2 where name='김기수';
+
+Q8-17. select name, tel, address from member2 order by name;
+
+Q8-18. delete from member2
