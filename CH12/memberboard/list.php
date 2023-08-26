@@ -13,7 +13,7 @@
             <span class="col2">제목</span>
             <span class="col3">글쓴이</span>
             <span class="col4">첨부</span>
-            <span class="col5">동륵일</span>
+            <span class="col5">등록일</span>
         </li>
 <?php
     include "session.php"; // 세션 처리
