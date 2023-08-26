@@ -65,8 +65,8 @@
 
     mysqli_close($con);
 ?>
-    <form name="member" action="modify.php?id=<?$userid?>" method="post">
-        <h2>회원 정보 수정</h2>
+    <form name="member" action="modify.php?id=<?=$userid?>" method="post">
+        <h2>정보 수정</h2>
         <ul class="join_form">
             <li>
                 <span class="col1">아이디</span>
